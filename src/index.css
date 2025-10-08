@@ -8,3 +8,11 @@ border-color: red;
 border-width: 1px;
 width: 250px;
 }
+
+section.card{}
+div.card{}
+input [type="text"]{
+ width: 200px;
+ height: 25px;
+
+}
