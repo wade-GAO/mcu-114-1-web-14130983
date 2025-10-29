@@ -6,7 +6,11 @@
             "savePath": "/src"
         }
     ],
-    "liveSassCompile.settings.excludeList": ["/src/assets/code/**"]
+    "liveSassCompile.settings.excludeList": [
+        "/src/assets/code/**"
+    ],
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 
 
 
